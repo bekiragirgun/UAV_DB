@@ -1,0 +1,152 @@
+{
+  "NACA_0012": {
+    "airfoil": "NACA_0012",
+    "Reynolds": 1000000.0,
+    "method": "literature",
+    "CL_MAX": 1.3,
+    "CD_0": 0.0055,
+    "ALPHA_STALL": 15.0,
+    "CM_0": 0.0,
+    "confidence": "high"
+  },
+  "NACA_0015": {
+    "airfoil": "NACA_0015",
+    "Reynolds": 1000000.0,
+    "method": "literature",
+    "CL_MAX": 1.25,
+    "CD_0": 0.0062,
+    "ALPHA_STALL": 14.5,
+    "CM_0": 0.0,
+    "confidence": "high"
+  },
+  "NACA_2412": {
+    "airfoil": "NACA_2412",
+    "Reynolds": 1000000.0,
+    "method": "literature",
+    "CL_MAX": 1.5,
+    "CD_0": 0.0058,
+    "ALPHA_STALL": 15.0,
+    "CM_0": -0.048,
+    "confidence": "high"
+  },
+  "NACA_2415": {
+    "airfoil": "NACA_2415",
+    "Reynolds": 1000000.0,
+    "method": "literature",
+    "CL_MAX": 1.45,
+    "CD_0": 0.0065,
+    "ALPHA_STALL": 14.5,
+    "CM_0": -0.05,
+    "confidence": "high"
+  },
+  "NACA_4412": {
+    "airfoil": "NACA_4412",
+    "Reynolds": 1000000.0,
+    "method": "literature",
+    "CL_MAX": 1.65,
+    "CD_0": 0.0062,
+    "ALPHA_STALL": 14.0,
+    "CM_0": -0.085,
+    "confidence": "high"
+  },
+  "NACA_4415": {
+    "airfoil": "NACA_4415",
+    "Reynolds": 1000000.0,
+    "method": "literature",
+    "CL_MAX": 1.6,
+    "CD_0": 0.007,
+    "ALPHA_STALL": 13.5,
+    "CM_0": -0.09,
+    "confidence": "high"
+  },
+  "NACA_4418": {
+    "airfoil": "NACA_4418",
+    "Reynolds": 1000000.0,
+    "method": "literature",
+    "CL_MAX": 1.55,
+    "CD_0": 0.008,
+    "ALPHA_STALL": 13.0,
+    "CM_0": -0.095,
+    "confidence": "high"
+  },
+  "NACA_6412": {
+    "airfoil": "NACA_6412",
+    "Reynolds": 1000000.0,
+    "method": "literature",
+    "CL_MAX": 1.85,
+    "CD_0": 0.0075,
+    "ALPHA_STALL": 13.0,
+    "CM_0": -0.125,
+    "confidence": "high"
+  },
+  "Skywalker_X8": {
+    "airfoil": "Skywalker_X8",
+    "Reynolds": 1000000.0,
+    "method": "literature",
+    "CL_MAX": 1.5,
+    "CD_0": 0.021,
+    "ALPHA_STALL": 14.0,
+    "CM_0": -0.035,
+    "confidence": "high"
+  },
+  "Eppler_387": {
+    "airfoil": "Eppler_387",
+    "Reynolds": 1000000.0,
+    "method": "literature",
+    "CL_MAX": 1.4,
+    "CD_0": 0.007,
+    "ALPHA_STALL": 12.5,
+    "CM_0": -0.06,
+    "confidence": "high"
+  },
+  "Eppler_214": {
+    "airfoil": "Eppler_214",
+    "Reynolds": 1000000.0,
+    "method": "literature",
+    "CL_MAX": 1.55,
+    "CD_0": 0.0068,
+    "ALPHA_STALL": 13.0,
+    "CM_0": -0.075,
+    "confidence": "high"
+  },
+  "MH_60": {
+    "airfoil": "MH_60",
+    "Reynolds": 1000000.0,
+    "method": "literature",
+    "CL_MAX": 1.35,
+    "CD_0": 0.006,
+    "ALPHA_STALL": 12.0,
+    "CM_0": -0.045,
+    "confidence": "high"
+  },
+  "MH_78": {
+    "airfoil": "MH_78",
+    "Reynolds": 1000000.0,
+    "method": "literature",
+    "CL_MAX": 1.5,
+    "CD_0": 0.0068,
+    "ALPHA_STALL": 12.5,
+    "CM_0": -0.07,
+    "confidence": "high"
+  },
+  "LS_0413": {
+    "airfoil": "LS_0413",
+    "Reynolds": 1000000.0,
+    "method": "literature",
+    "CL_MAX": 1.6,
+    "CD_0": 0.0068,
+    "ALPHA_STALL": 14.5,
+    "CM_0": -0.085,
+    "confidence": "high"
+  },
+  "Clark_Y": {
+    "airfoil": "Clark_Y",
+    "Reynolds": 1000000.0,
+    "method": "literature",
+    "CL_MAX": 1.45,
+    "CD_0": 0.0065,
+    "ALPHA_STALL": 15.0,
+    "CM_0": -0.058,
+    "confidence": "high"
+  }
+}
