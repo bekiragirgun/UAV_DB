@@ -116,7 +116,7 @@ UAV_DB/
 
 - UIUC Propeller Data Database: http://m-selig.ae.illinois.edu/props/propDB.html
 - XFOIL: http://web.mit.edu/drela/Public/web/xfoil/
-- Skywalker X8: Gryte et al. (2018) - ICUAS, DOI: 10.1109/ICUAS.2018.8453373
+- Skywalker X8: Gryte et al. (2018) - ICUAS, DOI: 10.1109/ICUAS.2018.8453370
 - HFRPP Paper: https://github.com/bekiragirgun/HRFPP
 
 ## License

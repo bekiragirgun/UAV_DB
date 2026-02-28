@@ -166,7 +166,7 @@
       "type": "UAV",
       "base_airfoil": "NACA 4415",
       "CL_MAX_estimated": 1.50,
-      "CL_MAX_source": "Gryte et al. (2018) - ICUAS 2018, DOI: 10.1109/ICUAS.2018.8453373",
+      "CL_MAX_source": "Gryte et al. (2018) - ICUAS 2018, DOI: 10.1109/ICUAS.2018.8453370",
       "CL_MAX_confidence": 0.95,
       "CD_0_estimated": 0.021,
       "CD_0_source": "Gryte et al. (2018) - COMPLETE AIRCRAFT drag (validated)",
@@ -331,7 +331,7 @@
     },
     "literature": [
       "Abbott, I.H., & von Doenhoff, A.E. (1959). Theory of Airfoil Sections. Dover Publications.",
-      "Gryte, K., et al. (2018). Aerodynamic modeling of the Skywalker X8. ICUAS 2018. DOI: 10.1109/ICUAS.2018.8453373",
+      "Gryte, K., et al. (2018). Aerodynamic modeling of the Skywalker X8. ICUAS 2018. DOI: 10.1109/ICUAS.2018.8453370",
       "NASA TM 4062 (1988). Experimental Results for the Eppler 387 Airfoil at Low Reynolds Numbers.",
       "Selig, M.S. Summary of Low-Speed Airfoil Data, Volumes 1-5. UIUC."
     ],

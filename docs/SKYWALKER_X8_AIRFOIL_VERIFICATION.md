@@ -26,7 +26,7 @@
 | **Location** | Dallas, TX, USA |
 | **Date** | June 12-15, 2018 |
 | **Pages** | 826-835 |
-| **DOI** | 10.1109/ICUAS.2018.8453373 |
+| **DOI** | 10.1109/ICUAS.2018.8453370 |
 
 ---
 
@@ -110,7 +110,7 @@ CL_MAX = 0.35 + 0.11 × 14° ≈ 1.89
 The Skywalker X8 airfoil data (CL_MAX = 1.50, CD_0 = 0.021, ALPHA_STALL = 14.0°)
 is obtained from Gryte et al. (2018), who performed extensive wind tunnel
 experiments and flight testing on a NACA 4415-based Skywalker X8 UAV platform
-(ICUAS 2018, DOI: 10.1109/ICUAS.2018.8453373). The CD_0 value represents the
+(ICUAS 2018, DOI: 10.1109/ICUAS.2018.8453370). The CD_0 value represents the
 complete aircraft zero-lift drag coefficient, including contributions from the
 wing (NACA 4415 profile), fuselage, tail surfaces, camera pod, control surface
 protuberances, and wing-fuselage interference effects. For applications requiring
