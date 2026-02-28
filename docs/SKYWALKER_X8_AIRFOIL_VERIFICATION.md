@@ -140,5 +140,4 @@ This value is scientifically valid and can be used in HFRPP with proper citation
 ---
 
 **Report generated:** 2026-02-24
-**Analyst:** Claude (Anthropic)
-**Reference file:** `/Users/bekiragirgun/Projects/001_Makale02_literatur_review/HFRPP/data/skywalker_x8_gryte2018.pdf`
+**Reference:** Gryte et al. (2018), DOI: 10.1109/ICUAS.2018.8453370
